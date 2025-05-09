@@ -1,0 +1,19 @@
+.sct-dois{
+    position: relative;
+    height: 90vh;
+    background-color: rgb(255, 254, 254);
+
+    .content{
+        h2{
+            display: flex;
+            justify-content: center;
+            padding: 2rem;
+        }
+
+        h4{
+            display: flex;
+            justify-content: center;
+            padding: 2rem;
+        }
+    }
+}
